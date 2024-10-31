@@ -22,7 +22,7 @@ body{
 .backgroundA {
     height: 26vw;
     width: 100%;
-    background: url("/img/contA-1.jpg") no-repeat;
+    background: url("/Merkinfra2/img/contA-1.jpg") no-repeat;
     background-position: center;
     /* background-size: cover; */
     animation: bgA 30s infinite;
@@ -34,12 +34,12 @@ body{
 }
 @keyframes bgA {
     0%{
-        background: url('/img/contA-1.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-1.jpg') no-repeat;
         background-position: center;
         opacity: 1;
     }
     28%{
-        background: url('/img/contA-1.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-1.jpg') no-repeat;
         background-position: center;
         opacity: 1;
     }
@@ -49,42 +49,42 @@ body{
         opacity: 0;
     }
     30%{
-        background: url('/img/contA-2.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-2.jpg') no-repeat;
         background-position: center;
         opacity: 0;
     }
     32%{
-        background: url('/img/contA-2.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-2.jpg') no-repeat;
         background-position: center;
         opacity: 1;  
     }
     60%{
-        background: url('/img/contA-2.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-2.jpg') no-repeat;
         background-position: center;
         opacity: 1;  
     }
     62%{
-        background: url('/img/contA-2.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-2.jpg') no-repeat;
         background-position: center;
         opacity: 0;  
     }
     62%{
-        background: url('/img/contA-3.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-3.jpg') no-repeat;
         background-position: center;
         opacity: 0;
     }
     64%{
-        background: url('/img/contA-3.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-3.jpg') no-repeat;
         background-position: center;
         opacity: 1;
     }
     98%{
-        background: url('/img/contA-3.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-3.jpg') no-repeat;
         background-position: center;
         opacity: 1;
     }
     100%{
-        background: url('/img/contA-3.jpg') no-repeat;
+        background: url('/Merkinfra2/img/contA-3.jpg') no-repeat;
         background-position: center;
         opacity: 0;
     }
@@ -131,7 +131,7 @@ body{
 }
 
 .containerB{
-    /* background: rgb(230, 230, 230) url("/img/contB-1.jpg") no-repeat; */
+    /* background: rgb(230, 230, 230) url("/Merkinfra2/img/contB-1.jpg") no-repeat; */
     background-color: white;
     background-size: cover;
     margin-top: 30px;
@@ -159,7 +159,7 @@ body{
     width: 270px;
 }
 .containerC{
-    /* background: url("/img/contC-bg1.jpg") no-repeat; */
+    /* background: url("/Merkinfra2/img/contC-bg1.jpg") no-repeat; */
     background-color: #eef3ff;
     border-radius: 10px;
     background-size: cover;
@@ -201,7 +201,7 @@ body{
     width: 320px;
     /* grid-template-columns: auto; */
     border-radius: 11px;
-    /* background: url("/img/contC-card-bg1.jpg") no-repeat; */
+    /* background: url("/Merkinfra2/img/contC-card-bg1.jpg") no-repeat; */
     background: var(--bs-blue);
     color: white;
     justify-content: center;
@@ -280,7 +280,7 @@ body{
 }
 .containerD .elementA .imgA{
     width: 50%;
-    background: url("/img/contD-el-1.webp") no-repeat;
+    background: url("/Merkinfra2/img/contD-el-1.webp") no-repeat;
     background-size: cover;
     border-radius: 10px;
     height: 400px;
@@ -352,25 +352,25 @@ body{
     color: white;
 }
 #boxX{
-    background: url("/img/contE-bg-1.jpg") no-repeat;
+    background: url("/Merkinfra2/img/contE-bg-1.jpg") no-repeat;
     background-size: cover;
     width: 50%;
     
 }
 #boxY{
-    background: url("/img/contE-bg-2.jpg") no-repeat;
+    background: url("/Merkinfra2/img/contE-bg-2.jpg") no-repeat;
     background-size: cover;
     width: 50%;
     
 }
 #boxZ{
-    background: url("/img/contE-bg-3.jpg") no-repeat;
+    background: url("/Merkinfra2/img/contE-bg-3.jpg") no-repeat;
     background-size: cover;
     width: 50%;
 
 }
 #boxX:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/Merkinfra2/img/contE-bg-1.jpg") no-repeat;
     background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
     background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
@@ -378,7 +378,7 @@ body{
     background-size: cover;
 }
 #boxY:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/Merkinfra2/img/contE-bg-2.jpg") no-repeat;
     background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
     background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
@@ -386,7 +386,7 @@ body{
     background-size: cover;
 }
 #boxZ:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/Merkinfra2/img/contE-bg-3.jpg") no-repeat;
     background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
     background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
@@ -404,7 +404,7 @@ body{
     .backgroundA {
         height: 220px;
         width: 100%;
-        background: url("/img/contA-1.jpg") no-repeat;
+        background: url("/Merkinfra2/img/contA-1.jpg") no-repeat;
         background-position: center;
     }
     .form{
@@ -479,7 +479,7 @@ body{
         width: 80vw;
     }
     .containerE #boxX{
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/Merkinfra2/img/contE-bg-1.jpg") no-repeat;
         background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
         background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
         background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
@@ -487,7 +487,7 @@ body{
         background-size: cover;
     }
     #boxY{
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/Merkinfra2/img/contE-bg-2.jpg") no-repeat;
         background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
         background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
         background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
@@ -496,7 +496,7 @@ body{
         background-size: cover;
     }
     #boxZ{
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/Merkinfra2/img/contE-bg-3.jpg") no-repeat;
         background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
         background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
         background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
