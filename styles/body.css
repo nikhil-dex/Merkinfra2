@@ -22,7 +22,7 @@ body{
 .backgroundA {
     height: 26vw;
     width: 100%;
-    background: url("/img/contA-1.jpg") no-repeat;
+    background: url("./img/contA-1.jpg") no-repeat;
     background-position: center;
     /* background-size: cover; */
     animation: bgA 30s infinite;
